@@ -13,3 +13,4 @@
 10. [Xcos](Notes/10.%20xcos.md)
 11. [File Handling](Notes/11.%20File%20Handling.md)
 12. [Input and Output](Notes/12.%20Input%20and%20Output.md)
+20. [Optimization Using Karmarkar Function ](/Notes/20.%20Using%20Karmarkar%20Function.md) 
